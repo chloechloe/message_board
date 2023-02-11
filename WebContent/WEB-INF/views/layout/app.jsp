@@ -17,7 +17,7 @@
                 ${param.content}
             </div>
             <div id="footer">
-                by Danjie HUANG.
+                by Chloe.
             </div>
         </div>
     </body>
